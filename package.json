@@ -1,12 +1,13 @@
 {
-  "name": "create-next-app",
+  "name": "ecommerce-react-stripe",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\""
   },
   "dependencies": {
     "next": "12.1.6",
