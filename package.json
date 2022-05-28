@@ -25,6 +25,20 @@
   },
   "devDependencies": {
     "eslint": "8.15.0",
-    "eslint-config-next": "12.1.6"
-  }
+    "eslint-config-next": "12.1.6",
+    "node": "^16.14.2"
+  },
+  "description": "Creating an online store with complete, good, and modern features can now be done by combining React and Stripe technologies into a single unit. Realistically integrated with payment channels, making this app feasible to use on multiple platforms.",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novaardiansyah/ecommerce-react-stripe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novaardiansyah/ecommerce-react-stripe/issues"
+  },
+  "homepage": "https://github.com/novaardiansyah/ecommerce-react-stripe#readme"
 }
